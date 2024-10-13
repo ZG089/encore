@@ -10,11 +10,11 @@
 - Reduces Jitter and Latency
 - Universal SoC Support
 - Complete CPU, CPU Bus, GPU, and DRAM Frequency scaling for Snapdragon, Mediatek, Google Tensor, Exynos, and Unisoc
-- Disables logd  service (if enabled in WebUI)
+- Disables logd service (if enabled in WebUI)
 - Mediatek tailored parameter settings
 - Schedulers, I/O and Network tweaks
 - Disables SPI CRC
-- Allows sched boosting on top-app tasks (Thx to tytydraco)
+- Allows sched boosting on top-app tasks (Thx to [tytydraco](https://github.com/tytydraco/KTweak))
 - Sets highest priority for Games
 - Uses Google's schedutil rate-limits from Pixel 3
 ```
@@ -63,7 +63,7 @@ Restart fresh `encore-service`.
 ---
 
 ## Notes:
-- I don't recommend comboing this module with any performance modules except Thermal Mod.
+- I don't recommend combining this module with any performance modules except Thermal Mod.
 
 ## How to flash:
 - Just flash in Magisk/KernelSU/APatch and reboot
@@ -83,4 +83,4 @@ Restart fresh `encore-service`.
 - [hoytech](https://github.com/hoytech/vmtouch) for vmtouch
 - ~~[RiProG](https://github.com/RiProG-id) for App Monitoring~~
 - [rsuntk](https://github.com/rsuntk) for arm32 support
-- Our contributor
+- Our contributor(s)
