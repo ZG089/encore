@@ -85,6 +85,7 @@ com.fantablade.icey
 com.farlightgames.igame.gp
 com.feralinteractive.gridas
 com.firsttouchgames.dls7
+com.freelunchdesign.icytowerclassic
 com.futuremark.dmandroid.application
 com.gabama.monopostolite
 com.gaijingames.wtm
@@ -110,6 +111,7 @@ com.hypergryph.exastris
 com.igg.android.doomsdaylastsurvivors
 com.ignm.raspberrymash.jp
 com.ilongyuan.implosion
+com.innersloth.spacemafia
 com.jacksparrow.jpmajiang
 com.je.supersus
 com.kakaogames.eversoul
@@ -135,6 +137,7 @@ com.lilithgame.hgame.gp
 com.linecorp.LGGRTHN
 com.linegames.sl
 com.madfingergames.legends
+com.masomo.headball2
 com.miHoYo.GI.samsung
 com.miHoYo.GenshinImpact
 com.miHoYo.HSoDv2JPOriginalEx
@@ -207,6 +210,7 @@ com.nexon.bluearchive
 com.nexon.kartdrift
 com.ngame.allstar.eu
 com.nianticlabs.monsterhunter
+com.ohbibi.fps
 com.olzhass.carparking.multyplayer
 com.pearlabyss.blackdesertm.gl
 com.pinkcore.tkfm
@@ -300,6 +304,7 @@ com.the10tons.dysmantle
 com.tinybuildgames.helloneighbor
 com.tipsworks.android.pascalswager
 com.tipsworks.pascalswager
+com.trueaxis.trueskate
 com.tungsten.fcl
 com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter
 com.unity.mmd
