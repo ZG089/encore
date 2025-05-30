@@ -8,7 +8,7 @@
 </p>
 
 ## Tentang Encore Tweaks
-[English](/README.md) | [Bahasa Indonesia](/docs/README_id-ID.md) | [简体中文](/docs/README_zh-CN.md)
+[English](/README.md) | **Bahasa Indonesia** | [简体中文](/docs/README_zh-CN.md)
 
 **Encore Tweaks** adalah modul Magisk dinamis yang dirancang untuk memaksimalkan performa gaming perangkat Anda sekaligus menghemat daya tahan baterai selama penggunaan sehari-hari. Sempurna untuk para gamer yang menginginkan gameplay yang mulus tanpa mengorbankan kegunaan sehari-hari!
 
